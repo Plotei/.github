@@ -22,3 +22,4 @@
 | 0G Labs Guide #1 | [LINK](https://github.com/Plotei/0G-labs-guides/blob/main/0G-Guide-1.md) |
 | 0G Labs Guide #2 | [LINK](https://github.com/Plotei/0G-labs-guides/blob/main/0G-Guide-2.md) |
 | Warden Guide #1 | [LINK](https://github.com/Plotei/warden-guides/blob/main/Warden-Guide-1.md) |
+| Mantra Guide #1 | [LINK](https://medium.com/@plotei/mantra-node-setup-guide-0d80d48329a4) | 
