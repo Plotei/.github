@@ -20,6 +20,7 @@
 
 | Doc | Link |
 |---|---|
+| Peaq Guide #1 | [LINK](https://github.com/savchenkoartema/peaq)
 | Warden Guide #1 | [LINK](https://github.com/Plotei/warden-guides/blob/main/Warden-Guide-1.md) |
 | Mantra Guide #1 | [LINK](https://medium.com/@plotei/mantra-node-setup-guide-0d80d48329a4) | 
 | DeSo Guide #1 | [LINK](https://github.com/savchenkoartema/deso-run) | 
